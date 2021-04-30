@@ -1,0 +1,5 @@
+# Ignore the locally built site.
+_site
+
+# Ignore the local Jekyll cache.
+.jekyll-cache
